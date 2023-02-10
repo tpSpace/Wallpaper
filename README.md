@@ -7,4 +7,4 @@ How to use Nitrogen
  ```Vimscript
  exec nitrogen --restore
  ```
-This will line will help you
+This will line will help you to restore the pics when you turn on computer.
